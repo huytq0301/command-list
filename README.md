@@ -1,6 +1,6 @@
 # command-list
 ### Ubuntu
-### Github
+### Git
 ### React native
 ### Node js
 - client does not support authentication: 
