@@ -4,7 +4,7 @@ brew services start mongodb-community
 Mongo data types: Boolean, Null, Interger, Double, String, BigInt, Object, Array, Symbol, Date, Object ID
 mongo command:
   - show dbs; list databases.
-  - use <db-name>; select a database.
+  - use <db-name>; select, create a database.
   - db;
   - db.<collection>; create a collection.
 	db.<collection>.insert({})
